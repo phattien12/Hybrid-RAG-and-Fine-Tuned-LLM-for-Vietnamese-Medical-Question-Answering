@@ -142,7 +142,6 @@ This project is licensed under the **MIT License**.
 -----
 
 👨‍💻 Author
-Phat
-Research Interests: Computer Vison, MultiModal Image Processing
+Phat - Research Interests: Computer Vison, MultiModal Image Processing
 
 ## *Developed with ❤️ for the Vietnamese Medical AI Community.*
