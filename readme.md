@@ -1,3 +1,9 @@
+Name: Nguyen Hai Tien Phat
+
+MSSV: 521H0126
+
+🔗 Link Github: https://github.com/phattien12/Hybrid-RAG-and-Fine-Tuned-LLM-for-Vietnamese-Medical-Question-Answering
+
 # 🩺 ViHealth-QA: Hybrid RAG & Fine-Tuned LLM for Vietnamese Medical QA
 
 A state-of-the-art **Vietnamese Medical Question Answering** system that integrates a fine-tuned **TinyLlama** model with a **Hybrid Retrieval-Augmented Generation (RAG)** pipeline. This project optimizes factual accuracy and reduces hallucinations in the medical domain using lightweight open-source technology.
