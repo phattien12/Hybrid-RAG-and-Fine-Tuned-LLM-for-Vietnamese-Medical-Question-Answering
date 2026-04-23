@@ -22,11 +22,17 @@ This system addresses the challenge of providing reliable medical advice in Viet
 -----
 
 🔗 Resources (Dataset & Checkpoints)
+
 📂 Dataset
+
      HuggingFace: https://huggingface.co/datasets/phathanos0907/vihealthqa
+     
      Google Drive: https://drive.google.com/drive/u/1/folders/1uEAdm-horWVj3ZpdUSxvap6_Q4P52fMH
+     
 🧠 Model Checkpoints (LoRA Adapter)
+
      HuggingFace: https://huggingface.co/phathanos0907/Checkpoint
+     
      Google Drive: https://drive.google.com/drive/folders/1iHyLX4gxRj23UCioR99lbTk-_X2v6IDa?usp=drive_link
 
 ## 🏗️ System Architecture
