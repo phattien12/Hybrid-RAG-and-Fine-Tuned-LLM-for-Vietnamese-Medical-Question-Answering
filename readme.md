@@ -1,6 +1,6 @@
 Name: Nguyen Hai Tien Phat
 
-MSSV: 521H0126
+Student ID: 521H0126
 
 🔗 Link Github: https://github.com/phattien12/Hybrid-RAG-and-Fine-Tuned-LLM-for-Vietnamese-Medical-Question-Answering
 
