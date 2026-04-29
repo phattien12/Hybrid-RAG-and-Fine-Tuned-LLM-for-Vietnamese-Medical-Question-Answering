@@ -287,6 +287,13 @@ trainer.train()
 
 ---
 
+### Training Results
+
+The model was trained for **8 epochs** (\~1000 steps), reaching a final loss of **1.24**.
+
+  * **Training Time**: 30m 26s (on Tesla T4).
+  * **Adaptation**: High stability with consistent loss reduction.
+
 ## 🔍 RAG Pipeline
 
 The retrieval pipeline uses **4 cascaded stages** to maximize context quality before generation.
@@ -526,27 +533,27 @@ Human evaluators can score each answer on dimensions such as factual correctness
   <tbody>
     <tr>
       <td>A — Base (zero-shot)</td>
-      <td>Low</td>
-      <td>Low</td>
-      <td>Low</td>
+      <td>0.0034</td>
+      <td>0.2264</td>
+      <td>0.6813</td>
     </tr>
     <tr>
       <td>B — Base + RAG</td>
-      <td>Medium</td>
-      <td>Medium</td>
-      <td>Medium</td>
+      <td>0.0003</td>
+      <td>0.1584</td>
+      <td>0.6495</td>
     </tr>
     <tr>
       <td>C — Fine-tuned</td>
-      <td>Good</td>
-      <td>Good</td>
-      <td>Good</td>
+      <td>0.0034</td>
+      <td>0.2264</td>
+      <td>0.6813</td>
     </tr>
     <tr>
       <td><strong>D — Fine-tuned + RAG</strong></td>
-      <td><strong>Best</strong></td>
-      <td><strong>Best</strong></td>
-      <td><strong>Best</strong></td>
+      <td><strong>0.0398</strong></td>
+      <td><strong>0.3038</strong></td>
+      <td><strong>0.7055</strong></td>
     </tr>
   </tbody>
 </table>
