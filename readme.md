@@ -844,7 +844,7 @@ demo.launch()
 ```
 Hybrid-RAG-and-Fine-Tuned-LLM-for-Vietnamese-Medical-QA/
 │
-├── 📓 notebook.ipynb                  # Main experiment notebook
+├── 📓 A_Hybrid_Retrieval_Augmented_and_Fine_Tuned_Large_Language_Model_for_Vietnamese_Medical_Question_Answering.ipynb                  # Main experiment notebook
 ├── 📄 README.md                       # This file
 │
 ├── 📁 medical_model/                  # Auto-generated training checkpoints
